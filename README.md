@@ -1,5 +1,5 @@
 //Welcome Everyone, I am a Junior Java Developer. This project is a small project I worked on.
-//The Code interact with the user, using the Scanner Object. 
+//The Code interact with the user, ask for two numbers, and then add them together, giving a result at the end. 
 //The Code will then give you the result of both of them.
 
 
